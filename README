@@ -1,0 +1,8 @@
+these scripts were made with help of ChatGPT.
+
+first, install FFmpeg: https://ffmpeg.org/download.html
+  Linux (Ubuntu/Debian based) : `sudo apt update; sudo apt install ffmpeg`
+  Linux (Red Hat/Fedora based): `sudo yum update; sudo yum install ffmpeg`
+  Linux (Arch (based)): `sudo pacman -Syu; sudo pacman -S ffmpeg`
+  MacOS (MacPorts): `sudo port selfupdate; sudo port install ffmpeg`
+  MacOS (Homebrew): `brew install ffmpeg`
